@@ -7,7 +7,7 @@ should not be used as a substiitue for a secure password manager, though the pas
 they can easily be deencrypted these days.
  
  
- **Encryption** : used cryptography library 
+ **Encryption** : used cryptography library, read more about the library here: [Cryptography Library](https://pypi.org/project/cryptography/) 
 ### New things I learnt:
 
 **rstrip()** this methods removes the characters at the end of a string. syntax: `string.rstrip(characters)` . parameter - 'character' is a string(s) to
