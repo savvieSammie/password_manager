@@ -8,7 +8,7 @@ they can easily be deencrypted these days.
  
 ### New things I learnt:
 
-** rstrip() ** this methods removes the characters at the end of a string. syntax: `string.rstrip(characters)` . parameter - 'character' is a string(s) to
+**rstrip()** this methods removes the characters at the end of a string. syntax: `string.rstrip(characters)` . parameter - 'character' is a string(s) to
 remove as trailing characters.
 
 
