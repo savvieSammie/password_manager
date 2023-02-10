@@ -6,6 +6,8 @@ NB: this project was done to improve my learning of python concepts, so this app
 should not be used as a substiitue for a secure password manager, though the passwords are encrypted but
 they can easily be deencrypted these days.
  
+ 
+ **Encryption** : used cryptography library 
 ### New things I learnt:
 
 **rstrip()** this methods removes the characters at the end of a string. syntax: `string.rstrip(characters)` . parameter - 'character' is a string(s) to
