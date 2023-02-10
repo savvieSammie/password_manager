@@ -5,7 +5,15 @@ store your passwords, organize them with the username and passwords associated w
 NB: this project was done to improve my learning of python concepts, so this app
 should not be used as a substiitue for a secure password manager, though the passwords are encrypted but
 they can easily be deencrypted these days.
+ 
+### New things I learnt:
 
+** rstrip() ** this methods removes the characters at the end of a string. syntax: `string.rstrip(characters)` . parameter - 'character' is a string(s) to
+remove as trailing characters.
+
+
+ 
+ 
 
 
 
